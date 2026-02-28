@@ -1,0 +1,8 @@
+{
+  "o3": {
+    "path": "./gpt-oss-20b-Q5_K_M.gguf",
+    "n_ctx": 4096,
+    "n_gpu_layers": -1,
+    "n_threads": 8
+  }
+}
